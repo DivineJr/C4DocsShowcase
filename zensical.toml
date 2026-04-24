@@ -70,6 +70,7 @@ site_url = "https://divinejr.github.io/C4DocsShowcase/"
 
 #This sets up stuff for repository/git related actions.
 repo_url = "https://github.com/DivineJr/C4DocsShowcase"
+edit_uri = "edit/main/docs"
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
