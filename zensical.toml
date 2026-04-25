@@ -295,8 +295,8 @@ repo = "fontawesome/brands/github"
 # ----------------------------------------------------------------------------
 [project.theme.palette]
 scheme = "slate"
-primary = "amber"
-accent = "red"
+primary = "red"
+accent = "amber"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
